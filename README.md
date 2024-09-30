@@ -1,6 +1,6 @@
 API para Cadastro e Listagem de produtos.
 
-Tecnologias
+Tecnologias: 
 Spring Boot
 Spring MVC
 Spring Data JPA
@@ -9,7 +9,7 @@ Lombok
 Flyway
 Bean Validation
 
-Práticas adotadas
+Práticas adotadas: 
 SOLID, DRY, YAGNI, KISS
 API REST
 Consultas com Spring Data JPA
